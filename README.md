@@ -48,5 +48,4 @@ Statistical analysis of Employee Assistance Program effectiveness
 ## 📫 Connect With Me
 
 - 📧 Email: karen20010210@gmail.com
-- 💼 [LinkedIn](#) *(Add your LinkedIn URL)*
-- 📝 [Personal Website/Blog](#) *(Optional but recommended)*
+- 💼 [LinkedIn](#) (https://www.linkedin.com/in/yi-chien-karena-c-3352731a6/)
